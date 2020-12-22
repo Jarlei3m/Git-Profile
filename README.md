@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Járlei 👋</h1>
 <h3 align="center">Front End Developer, Programmer, Engineer & Passionate About Codes!</h3>
 
-- 👨‍💻 Experience in technologies such as **Javascript, HTML, CSS, NodeJs, PostgreSQL and Git;**
+- 👨‍💻 Experience in technologies such as **Javascript, HTML, CSS, NodeJs, PostgreSQL and Git**;
 
-- 🌱 I’m currently learning ReactJS, React Native, MongoDB, Redis and docker;
+- 🌱 I’m currently learning **ReactJS, React Native, MongoDB, Redis and docker**;
 
 - 🚀 Future techs on medium-term study plans **Elixir and Phoenix framework** (wanna challenge myself with functional programming);
 
