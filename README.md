@@ -13,7 +13,8 @@
 
 - ⚡ Fun fact **Cryptocurrency enthusiast ₿, libertarian, love metal songs and play guitar 🎸😜**
 
-<p align="left">
+
+<p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
@@ -23,7 +24,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="nodejs" width="20" height="20"/>
-</p><p align="center">
+</p>
+<br>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jarlei3m&show_icons=true" alt="jarlei"/> 
 </p>
 
