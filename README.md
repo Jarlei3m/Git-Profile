@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Járlei 👋</h1>
 <h3 align="center">Front End Developer, Programmer, Engineer & Passionate About Codes!</h3>
 
-- 👨‍💻 Experience in technologies such as **Javascript, HTML, CSS, NodeJs, PostgreSQL and Git.**
+- 👨‍💻 Experience in technologies such as **Javascript, HTML, CSS, NodeJs, PostgreSQL and Git;**
 
 - 🌱 I’m currently learning ReactJS, React Native, MongoDB, Redis and docker;
 
@@ -9,7 +9,7 @@
 
 - 🥅 2021 Goals: Build my portfolio website and start to contribute to Open Source projects;
 
-- 📫 How to reach me **jarlei_eng.mecanica@hotmail.com**
+- 📫 How to reach me **jarlei_eng.mecanica@hotmail.com**;
 
 - ⚡ Fun fact **Cryptocurrency enthusiast ₿, libertarian, love metal songs and play guitar 🎸😜**
 
