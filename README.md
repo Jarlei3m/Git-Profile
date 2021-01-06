@@ -1,17 +1,15 @@
 <h1 align="center">Hi there, I'm Járlei 👋</h1>
 <h3 align="center">Web Developer, Programmer, Engineer & Passionate About Codes!</h3>
 
-- 👨‍💻 Experience in technologies such as **Javascript, HTML, CSS, NodeJs, PostgreSQL and Git**;
+- 👨‍💻 Experience in **Javascript, HTML, CSS, NodeJs, PostgreSQL and Git**;
 
-- 🌱 I’m currently learning **ReactJS, React Native, MongoDB, Redis and docker**;
+- 🌱 I’m currently learning **ReactJS, React Native, MongoDB, Redis and Docker**;
 
-- 🚀 Future techs on medium-term study plans **Elixir and Phoenix framework** (wanna challenge myself with functional programming);
-
-- 🥅 2021 Goals: Build my portfolio website and start to contribute to Open Source projects;
+- 🥅 2021 Goals: Build my portfolio website and start to contribute to Open Source Projects;
 
 - 📫 How to reach me **jarlei_eng.mecanica@hotmail.com**;
 
-- ⚡ Fun fact **Cryptocurrency enthusiast ₿, libertarian, love metal songs and play guitar 🎸😜**
+- ⚡ Fun fact **Cryptocurrency enthusiast ₿, guitar player 🎸😜**
 
 
 <p align="center">
