@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Járlei 👋</h1>
-<h3 align="center">Front End Developer, Programmer, Engineer & Passionate About Codes!</h3>
+<h3 align="center">Web Developer, Programmer, Engineer & Passionate About Codes!</h3>
 
 - 👨‍💻 Experience in technologies such as **Javascript, HTML, CSS, NodeJs, PostgreSQL and Git**;
 
