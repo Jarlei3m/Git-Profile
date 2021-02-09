@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS and React Native**;
 
-- 📫 How to reach me **jarlei_eng.mecanica@hotmail.com**;
+- 📫 How to reach me **jarlei_rodrigues@outlook.com**;
 
 - ⚡ Fun fact **Cryptocurrency enthusiast ₿, guitar player 🎸😜**
 
