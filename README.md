@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Járlei 👋</h1>
 <h3 align="center">Web Developer, Programmer, Engineer & Passionate About Codes!</h3>
 
-- 👨‍💻 Experience in **Javascript, HTML5, CSS**;
+- 👨‍💻 Experience in **Javascript, HTML5, CSS, ReactJS, TypeScript and NextJS**;
 
-- 🌱 I’m currently learning **ReactJS, React Native, Typescript and NextJS**;
+- 🌱 I’m currently learning **React Native, Node.js**;
 
 - 📫 How to reach me **jarlei_rodrigues@outlook.com**;
 
