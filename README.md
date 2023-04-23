@@ -3,7 +3,7 @@
 
 - 👨‍💻 Experience in **Javascript, HTML5, CSS, ReactJS, TypeScript and NextJS**;
 
-- 🌱 I’m currently learning **React Native ans Elixir**;
+- 🌱 I’m currently learning **React Native and Elixir**;
 
 - 📫 How to reach me **jarlei_rodrigues@outlook.com**;
 
